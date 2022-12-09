@@ -35,6 +35,7 @@
 } /* nav bar done for header */
 /*for footer*/
 .footer{
+    padding-top: 30px;
     padding-bottom: 40px;
     display: flex;
     justify-content: space-between; /* for flex */
@@ -45,6 +46,7 @@
 .footer ul{
     margin-left: 600px; /* aliment of footer */
 }
+/* footer done */
 
 .img{
     padding: 40px;
@@ -53,7 +55,7 @@
     width: 300px ; /* width of img */
     height: 250px;
 }
-/* footer done */
+
 /* now start for contant */
 .content{
     text-align: center; /* try to place to element into centre */
